@@ -102,7 +102,6 @@ class Form extends React.Component {
             headers: {
                 apiversion: 3.1,
                 userid: 308283,
-                AccessControlAllowOrigin: 'https://api.parcelmonkey.co.uk/GetQuote',
                 token: '4j0bGNwJgm'
                 },
             body: JSON.stringify({
