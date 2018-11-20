@@ -17,7 +17,7 @@ My personal experience, where I discovered a problem which will be solved in the
 
 ## What technologies it uses?
 
-* html
-* css (SASS)
+* HTML 5
+* CSS (SASS)
 * Java Script
 * React
