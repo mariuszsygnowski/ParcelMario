@@ -9,7 +9,6 @@ By default, weight and dimensions are set to minimum values and postcode are in 
 
 * Run `npm install` after cloning to download all dependencies
 * Use `npm run dev -- --watch` to build React
-* Use `npm test` or `npm test -- --watchAll` to run tests
 * To use this app you need disable security in your web browser (to get an result: https://stackoverflow.com/questions/3102819/disable-same-origin-policy-in-chrome). This is due Cross-Origin Resource Sharing (CORS). At later stage this application, when will run from server, this issue will gone, so for now to see results, security in web browser must be disabled.
 
 ## Inspiration
@@ -19,6 +18,6 @@ My personal experience, where I discovered a problem which will be solved in the
 ## What technologies it uses?
 
 * html
-* css (scss)
+* css (SASS)
 * Java Script
 * React
